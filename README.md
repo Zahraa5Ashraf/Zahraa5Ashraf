@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Flutter Developer<br>👯 I’m looking to collaborate on More projects and improve my skills<br>🌱 I’m currently learning Kotlin<br>
+👨‍💻 A Fresh graduated Computer Engineer Looking for the best always<br>🔭 I work as Flutter Developer<br>👯 I’m looking to collaborate on More projects and improve my skills<br>🌱Currently I'm learning Kotlin<br>
 
 
 ## 🌐 Socials:
